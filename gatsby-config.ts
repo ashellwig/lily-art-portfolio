@@ -12,7 +12,7 @@ const config: GatsbyConfig = {
     siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
     siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
     siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `Portfolio website for Lily Thomas's (peachpuke) art and makeup art.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `@lekoarts_de`,
@@ -29,7 +29,7 @@ const config: GatsbyConfig = {
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: `Portfolio website for Lily Thomas's (peachpuke) art and makeup art.`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
