@@ -1,11 +1,14 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
-  "version": "0.2.15",
-  "author": "LekoArts",
+  "name": "lily-art-portfolio",
+  "description": "Portfolio website for Lily Thomas's (peachpuke) art and makeup art.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ash Hellwig",
+    "email": "ahellwig.dev@gmail.com",
+    "url": "https://ash.ashwigltd.com"
+  },
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
