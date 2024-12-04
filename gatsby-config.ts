@@ -9,10 +9,10 @@ const config: GatsbyConfig = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
     siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
+    siteTitleAlt: `Lily Ellen - Makeup Artist in Colorado`,
+    siteHeadline: `Lily Ellen - Makeup Artist in Colorado`,
     siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Portfolio website for Lily Ellen Thomas's (peachpuke) makeup art.`,
+    siteDescription: `Portfolio website for Lily Ellen's (peachpuke) makeup art.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `@lekoarts_de`,
@@ -29,7 +29,7 @@ const config: GatsbyConfig = {
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Cara`,
-        description: `Portfolio website for Lily Ellen Thomas's (peachpuke) makeup art.`,
+        description: `Portfolio website for Lily Ellen's (peachpuke) makeup art.`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
