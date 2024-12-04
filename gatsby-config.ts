@@ -8,7 +8,7 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
-    siteTitle: `Cara`,
+    siteTitle: `Lily Ellen - Makeup Artist`,
     siteTitleAlt: `Lily Ellen - Makeup Artist in Colorado`,
     siteHeadline: `Lily Ellen - Makeup Artist in Colorado`,
     siteUrl: `https://cara.lekoarts.de`,
